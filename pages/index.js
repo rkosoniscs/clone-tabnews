@@ -5,8 +5,4 @@ function Home() {
   return html;
 }
 
-function test2() {
-  console.log("Teste");
-}
-
 export default Home;
